@@ -6,10 +6,6 @@ that answer practical questions for anyone entering or working in the data field
 how much do different roles earn, which tools people actually use, and how happy
 they are in their jobs.
 
-## Dashboard Preview
-
-![Dashboard](images/dashboard.png)
-
 ## Key Insights
 
 - **Data Scientists earn the most** among all roles, followed by Data Architects
